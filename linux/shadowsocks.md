@@ -1,5 +1,7 @@
 # Ubuntu16 翻墙
 
+参考链接：https://www.sundabao.com/ubuntu%E4%BD%BF%E7%94%A8shadowsocks/
+
 1. 安装GUI 图形界面程序，然后按照提示配置相对应的参数。安装教程地址：shadowsocks-qt5 安装指南
 
 ```
